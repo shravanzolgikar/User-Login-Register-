@@ -1,0 +1,20 @@
+{
+  "dbConfig": {
+    "host": "localhost",
+    "port": 27017,
+    "dbName": "practise",
+    "GET_URL": "mongodb://localhost/practise-db"
+  },
+  "app": {
+    "port": 3000,
+    "host": "localhost",
+    "baseUrl": ""
+  },
+  "sendGridConfig": {
+    "Get_UserName": "shravanzolgikar",
+    "Get_Password": "innoflexion2016",
+    "From_Address": "triviaDevTeam.com",
+    "Subject": "Hello Trivia Team",
+    "Text": "Testing SendGrid"
+  }
+}
