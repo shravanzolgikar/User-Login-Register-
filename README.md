@@ -5,4 +5,4 @@ After download/clone
 
 1) Go to project path where you have Downloaded in the terminal type the command
 
-2)-$ npm install => this will let you download node_modules dependencies
+ npm install => this will let you download node_modules dependencies
